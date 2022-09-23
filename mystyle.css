@@ -1,0 +1,132 @@
+h1{
+	color: white;
+	text-align: center;
+	background-color: #715da1;
+	border: 1px solid white;
+	border-collapse: collapse;
+	padding: 20px;
+	font-family: Rockwell, Courier Bold, Courier, Georgia, Times, Times New Roman, serif;
+	font-size: 30px;
+}
+h2{
+	color: white;
+	text-align: center;
+	font-family: Rockwell, Courier Bold, Courier, Georgia, Times, Times New Roman, serif;
+	font-size: 30px;
+}
+body{
+	background-image: url('s.jpg');
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	margin-top: 40px;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+a:hover {
+  background-color: #715da1;
+}
+a:link {
+  color: white;
+}
+a:visited {
+  color: white;
+}
+
+table, th, td {
+	border-bottom: 2px solid #ddd;
+	border: 1px solid;
+	border-collapse: collapse;
+	color: white;
+	padding: 8px;
+}
+table {
+	text-align:center;
+	width:100%;
+	font-family: Rockwell, Courier Bold, Courier, Georgia, Times, Times New Roman, serif;
+}
+tr:hover {
+	background-color: #715da1;
+}
+	
+th{
+	font-size: 20px;
+	text-align:center;
+}
+td{
+	font-size: 15px;
+	text-align:center;
+}
+form{
+	margin-left: 26%;
+	margin-right: 26%;
+	padding: 50px;
+	color: white;
+	font-family: Rockwell, Courier Bold, Courier, Georgia, Times, Times New Roman, serif;
+	font-size: 20px;
+	border: 1px solid;
+	border-collapse: collapse;
+}
+input {
+	width: 100%;
+	height: 20px;
+	font-family: Rockwell, Courier Bold, Courier, Georgia, Times, Times New Roman, serif;
+	font-size: 18px;
+	text-align: center;
+	padding: 15px 20px;
+	margin: 10px 0;
+	border: none;
+	box-sizing: border-box;
+}
+input[type=button], input[type=submit], input[type=reset] {
+	  background-color: #715da1;
+	  border: none;
+	  color: white;
+	  height: 50px;
+	  padding: 16px 32px;
+	  text-decoration: none;
+	  margin: 4px 2px;
+	  cursor: pointer;
+}
+button {
+	font-family: Rockwell, Courier Bold, Courier, Georgia, Times, Times New Roman, serif;
+	background-color: #715da1;
+	font-size: 18px;
+	  border: none;
+	  color: white;
+	  height: 50px;
+	  padding: 16px 32px;
+	  text-decoration: none;
+	  margin: 4px 2px;
+	  cursor: pointer;
+}
+.lgn{ 
+	padding: 10px;
+	color: white;
+	text-align: left
+}
+.ltxt{
+	color: white;
+	font-family: Rockwell, Courier Bold, Courier, Georgia, Times, Times New Roman, serif;
+	font-size: 20;
+}
+.back{
+	color: white;
+	font-family: Rockwell, Courier Bold, Courier, Georgia, Times, Times New Roman, serif;
+	font-size: 20;
+	
+}
+
+.logout{ 
+	padding: 10px;
+	color: white;
+	text-align: right;
+	font-family: Rockwell, Courier Bold, Courier, Georgia, Times, Times New Roman, serif;
+}
+.text{ 
+	
+	padding: 10px;
+	color: white;
+	text-align: center;
+	font-family: Rockwell, Courier Bold, Courier, Georgia, Times, Times New Roman, serif;
+}
